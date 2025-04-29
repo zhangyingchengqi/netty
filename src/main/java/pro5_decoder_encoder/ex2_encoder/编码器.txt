@@ -1,0 +1,1 @@
+常见的消息通信协议: HTTP, MQTT, XMPP, STOMP, AMQP和RTMP等.
