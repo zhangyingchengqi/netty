@@ -5,7 +5,6 @@ name: Claude PR Review
     types: [opened, synchronize, reopened]
   issue_comment:
     types: [created]
-
 jobs:
   review:
     runs-on: ubuntu-latest
